@@ -20,11 +20,20 @@ API TESTING LINK
 Methods used
 --------------
 1.Generics
+------
 2.User Model for registration.
+-------
 3.Validations
+-------
 4.Token Authentication
+---------
 5.Per view Authentication
+---------
 6.Pandas library to read csv file
+--------
 7.To encrypt Password implemented CREAT Method in serializers
+---------
 8.Admin can add csv file and management user can view data
+-----------
 9.Used django ORM to retrive data from database
+-------------
