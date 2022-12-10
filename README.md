@@ -1,6 +1,8 @@
 # Samta-ai-Assignment
+----------------------
 DRF Project --> Authentication, Admin , Management user, API Design, Testing
 Steps To Run The Project
+---------------------------
 1.virtualenv venv
 2.venv\scripts\activate
 3.cd project1
